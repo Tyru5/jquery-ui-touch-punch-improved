@@ -1,0 +1,25 @@
+{
+  "name": "jquery-ui-touch-punch-improved",
+  "version": "1.0.0",
+  "description": "Touch Event Support for jQuery UI",
+  "main": "jquery.ui.touch-punch-improved.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyru5/jquery-ui-touch-punch-improved.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-ui",
+    "touch",
+    "mobile"
+  ],
+  "author": "Chris Hutchinson <chris@brushd.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tyru5/jquery-ui-touch-punch-improved/issues"
+  },
+  "homepage": "https://github.com/Tyru5/jquery-ui-touch-punch-improved#readme"
+}
